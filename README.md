@@ -35,10 +35,11 @@ A comprehensive vulnerability scanner that detects OS-level, software, and confi
    cd vuln-scanner
    ```
 
-2. Install optional dependencies:
+2. Install dependencies:
 
    ```
    pip install distro
+   pip install requests
    ```
 
 3. (Optional) Set environment variables for API keys:
