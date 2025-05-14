@@ -31,7 +31,7 @@ A comprehensive vulnerability scanner that detects OS-level, software, and confi
 1. Clone this repository:
 
    ```
-   git clone https://github.com/yourusername/vuln-scanner.git
+   git clone https://github.com/jmason112/vuln-scanner.git
    cd vuln-scanner
    ```
 
